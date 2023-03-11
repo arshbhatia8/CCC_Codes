@@ -1,4 +1,4 @@
-  //There is one Christmas Tree
+
     #include <bits/stdc++.h>
     using namespace std;
     using ull = uint64_t;
