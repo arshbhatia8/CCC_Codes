@@ -1,4 +1,4 @@
-//Exam Time
+
 #include<bits/stdc++.h>
 using namespace std;
 
